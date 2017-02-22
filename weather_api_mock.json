@@ -1,0 +1,38 @@
+{
+  "location": {
+    "name": "Coimbatore",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "lat": 10.99,
+    "lon": 76.96,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1487780689,
+    "localtime": "2017-02-22 16:24"
+  },
+  "current": {
+    "last_updated_epoch": 1487780690,
+    "last_updated": "2017-02-22 16:24",
+    "temp_c": 36,
+    "temp_f": 96.8,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.apixu.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 11.9,
+    "wind_kph": 19.1,
+    "wind_degree": 40,
+    "wind_dir": "NE",
+    "pressure_mb": 1009,
+    "pressure_in": 30.3,
+    "precip_mm": 0,
+    "precip_in": 0,
+    "humidity": 16,
+    "cloud": 0,
+    "feelslike_c": 34.4,
+    "feelslike_f": 94,
+    "vis_km": 8,
+    "vis_miles": 4
+  }
+}
